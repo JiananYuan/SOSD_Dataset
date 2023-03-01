@@ -4,7 +4,7 @@
 
 由于原[SOSD仓库](https://github.com/learnedsystems/SOSD)real word traces的下载脚本下载过程总是会中断，不得不采用[Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JGVF9A)的数据源。Harvard数据源下载下来之后并不是直接可用的数据，本仓库的数据集为处理之后可读的数据集。
 
-数据集下载链接：[百度云链接]()
+数据集下载链接：[百度云链接](https://pan.baidu.com/s/1nwYSxXGhXl5VxZZHn4EPXA?pwd=dcjk)
 
 数据集名称:
 - books_200M_uint32
